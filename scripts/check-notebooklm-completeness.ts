@@ -6,7 +6,7 @@
  * Verifies a NotebookLM operation against the 8-item NotebookLM Quality Checklist.
  * 
  * Usage:
- *   npx tsx skills/notebooklm/scripts/check-notebooklm-completeness.ts --phase <phase>
+ *   npx tsx .agents/skills/notebooklm/scripts/check-notebooklm-completeness.ts --phase <phase>
  */
 
 import { argv } from "process";
